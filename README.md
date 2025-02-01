@@ -10,26 +10,24 @@
 
 ____
 
-<h3>🛠 Language Stack</h3>
-
 [//]: # ()
 [//]: # (<div class="backend-icons">)
 
 [//]: # (    <h4 > Backend </h4>)
 
-[//]: # (    <p style="width: 100px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang"/>)
 
 [//]: # (    </p>)
 
-[//]: # (    <p style="width: 100px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" />)
 
 [//]: # (    </p>)
 
-[//]: # (    <p style="width: 100px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
 
@@ -42,13 +40,13 @@ ____
 
 [//]: # (    <h4> SQL </h4>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />)
 
 [//]: # (    </p>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />)
 
@@ -61,19 +59,19 @@ ____
 
 [//]: # (    <h4> DevOps </h4>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100px"/>)
+[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50px"/>)
 
 [//]: # (    </p>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />)
 
 [//]: # (    </p>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />)
 
@@ -86,19 +84,19 @@ ____
 
 [//]: # (    <h4> Logging </h4>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>)
 
 [//]: # (    </p>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />)
 
 [//]: # (    </p>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" />)
 
@@ -111,30 +109,13 @@ ____
 
 [//]: # (    <h4> QA </h4>)
 
-[//]: # (    <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
+[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
 
 [//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />)
 
 [//]: # (    <p>)
 
 [//]: # (</div>)
-
-<div class="languages" align-content="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="100px"/>
-</div>
-
-____
 
 <div class="streak">
     <h3>🔥 Current Streak</h3>
@@ -235,13 +216,32 @@ ____
 
 ____
 
+<h3>🛠 Language Stack</h3>
+
+<div class="languages" align-content="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" alt="grpc" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="elastic" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="kibana" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50px"/>
+</div>
+
+____
+
 <div class="contact">
     <h3>📬 You can contact me</h3>
     <a href="https://t.me/Grbisba">
-        <img src="telegramm.png" height="100" width="100" alt="my telegram"/>
+        <img src="telegramm.png" height="100px" width="100px" alt="my telegram"/>
     </a>
     <a href="https://habr.com/ru/users/Grbisba/">
-        <img src="habr.png" height="100" width="100" alt="my habr"/>
+        <img src="habr.png" height="100px" width="100px" alt="my habr"/>
     </a>
 </div>
 
