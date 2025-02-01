@@ -38,7 +38,7 @@ ____
 <div class="DevOps">
     <h4> DevOps </h4>
     <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100px"/>
     </p>
     <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
@@ -51,7 +51,7 @@ ____
 <div class="Logs">
     <h4> Logging </h4>
     <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
     </p>
     <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
