@@ -28,7 +28,7 @@ ____
 <div class="SQL">
     <h4> SQL </h4>
     <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     </p>
     <p style="width: 100px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
