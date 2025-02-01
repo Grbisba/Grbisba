@@ -1,0 +1,30 @@
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.graph {
+    text-align: center;
+    align-content: center;
+}
+
+
+.stats {
+    text-align: center;
+    align-content: center;
+}
+
+.streak {
+    text-align: center;
+    align-content: center;
+}
+
+.pinned {
+    text-align: center;
+}
+
+.pinned-images {
+    margin: 10px;
+    text-align: center;
+    align-content: center;
+}
