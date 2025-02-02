@@ -213,7 +213,7 @@ ____
 
 ____
 
-<h3>🛠 Language Stack</h3>
+<h3>🛠 Skills Stack</h3>
 
 <div class="languages" align-content="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="50px"/>
