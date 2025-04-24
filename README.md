@@ -10,127 +10,20 @@
 
 ____
 
-[//]: # ()
-[//]: # (<div class="backend-icons">)
-
-[//]: # (    <h4 > Backend </h4>)
-
-[//]: # (    <p style="width: 50px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang"/>)
-
-[//]: # (    </p>)
-
-[//]: # (    <p style="width: 50px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (    <p style="width: 50px; display: inline-block;margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class="SQL">)
-
-[//]: # (    <h4> SQL </h4>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class="DevOps">)
-
-[//]: # (    <h4> DevOps </h4>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50px"/>)
-
-[//]: # (    </p>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class="Logs">)
-
-[//]: # (    <h4> Logging </h4>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>)
-
-[//]: # (    </p>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" />)
-
-[//]: # (    </p>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class="QA">)
-
-[//]: # (    <h4> QA </h4>)
-
-[//]: # (    <p style="width: 50px; display: inline-block; margin: 10px; padding-top: 6px; padding-left: 10px; padding-right: 10px; background: white; border-radius: 15px;">)
-
-[//]: # (    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />)
-
-[//]: # (    <p>)
-
-[//]: # (</div>)
-
-[//]: # (<h3>🛠 Most Used Languages</h3>)
-[//]: # (<div class="mul">)
-[//]: # (    <picture>)
-[//]: # (        <source)
-[//]: # (        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grbisba&theme=vue-dark")
-[//]: # (        media="&#40;prefers-color-scheme: dark&#41;")
-[//]: # (        />)
-[//]: # (        <source)
-[//]: # (        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grbisba&theme=vue")
-[//]: # (        media="&#40;prefers-color-scheme: light&#41;, &#40;prefers-color-scheme: no-preference&#41;")
-[//]: # (        />)
-[//]: # (        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grbisba"/>)
-[//]: # (    </picture>)
-[//]: # (</div>)
+<h3>🛠 Most Used Languages</h3>
+<div class="mul">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grbisba&theme=vue-dark"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grbisba&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grbisba"/>
+    </picture>
+</div>
 
 ____
 
