@@ -195,6 +195,19 @@ ____
             <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=Logger">
         </picture>
     </a>
+    <a href="https://github.com/Grbisba/hack-backend">
+        <picture>
+            <source
+                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=hack-backend&theme=vue-dark&show_owner=true"
+                    media="(prefers-color-scheme: dark)"
+            />
+            <source
+                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=hack-backend&theme=vue&show_owner=true"
+                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=hack-backend">
+        </picture>
+    </a>
 </div>
 
 ____
