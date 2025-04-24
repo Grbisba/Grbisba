@@ -117,22 +117,6 @@ ____
 
 [//]: # (</div>)
 
-<div class="streak">
-    <h3>🔥 Current Streak</h3>
-    <picture>
-        <source
-        srcset="https://streak-stats.demolab.com/?user=grbisba>&theme=vue-dark"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://streak-stats.demolab.com/?user=grbisba&theme=vue"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=grbisba"/>
-    </picture>
-</div>
-
-
 [//]: # (<h3>🛠 Most Used Languages</h3>)
 [//]: # (<div class="mul">)
 [//]: # (    <picture>)
@@ -242,8 +226,10 @@ ____
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="elastic" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg" alt="logstash" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="kibana" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="k8" width="50px"/>
 </div>
 
 ____
