@@ -46,30 +46,17 @@ ____
 
 <div class="pinned-images">
     <h3>📌 My Pinned Repository</h3>
-    <a href="https://github.com/Grbisba/Package">
+    <a href="https://github.com/Grbisba/loggr">
         <picture>
             <source
-                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=Package&theme=vue-dark&show_owner=true"
+                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=loggr&theme=vue-dark&show_owner=true"
                     media="(prefers-color-scheme: dark)"
             />
             <source
-                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=Package&theme=vue&show_owner=true"
+                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=loggr&theme=vue&show_owner=true"
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=Package">
-        </picture>
-    </a>
-    <a href="https://github.com/Grbisba/Logger">
-        <picture>
-            <source
-                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=Logger&theme=vue-dark&show_owner=true"
-                    media="(prefers-color-scheme: dark)"
-            />
-            <source
-                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=Logger&theme=vue&show_owner=true"
-                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=Logger">
+            <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=grbisba&repo=loggr">
         </picture>
     </a>
     <a href="https://github.com/Grbisba/hack-backend">
